@@ -1,0 +1,108 @@
+@import "../../vars.css";
+
+.container {
+  position: relative;
+  background-color: #0f2141;
+  border-radius: 15px;
+  padding: 70px;
+  margin-top: 100px;
+  z-index: 1;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.title {
+  color: var(--color-text);
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.formationImage {
+  width: 35%;
+  border-radius: 25px;
+  margin-top: 20px;
+  margin-right: 40px;
+}
+
+.formationItems {
+  color: var(--color-text);
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.formationItem {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-radius: 25px;
+  list-style: none;
+  padding: 20px;
+  background-image: linear-gradient(
+    90deg,
+    rgba(165, 215, 232, 0.42) 0%,
+    rgba(255, 255, 255, 0) 100%
+  );
+  background-size: 3% 100%;
+  background-repeat: no-repeat;
+  transition: 0.4s;
+}
+
+.formationItem:hover {
+  background-size: 100% 100%;
+}
+
+.formationItem h3 {
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.formationItem p {
+  font-size: 20px;
+}
+
+.formationUniversityImage {
+  width: 50px;
+  height: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.keywordText {
+  font-weight: bold; 
+  color: #b65f4f; 
+}
+
+
+@media screen and (max-width: 830px) {
+  .container {
+    background-color: transparent;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .content {
+    flex-direction: column;
+  }
+
+  .formationImage {
+    display: none;
+  }
+
+  .formationItems {
+    margin-top: 29px;
+  }
+
+  .formationItem {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}

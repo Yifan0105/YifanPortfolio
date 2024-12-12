@@ -1,0 +1,69 @@
+{
+  "title": "Portfolio de Yifan",
+  "navbar": {
+    "formations": "Formations",
+    "experiences": "Expériences",
+    "competences": "Compétences",
+    "contact": "Contact"
+  },
+  "profil": {
+    "title": "Bonjour, je suis Yifan",
+    "description": "Développeuse full stack avec une expérience concrète dans la conception et le développement d’applications web au sein d’une équipe agile.\n\nJe suis actuellement à la recherche d'une opportunité professionnelle en CDI ou CDD en tant que Développeuse. Je suis disponible immédiatement, mobile partout en France, et titulaire d'un titre de séjour valide (APS) me permettant de travailler sur le territoire français.\n\nJe suis également ouverte aux opportunités dans d'autres pays de l'Union européenne.",
+    "downloadCV": "Télécharger mon CV",
+    "altText": "Photo de profil"
+  },
+  "formations": {
+    "title": "Mes Formations",
+    "master": {
+      "title": "Master MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises)",
+      "university": "Faculté d'informatique | Université de Toulouse 1 Capitole (UT1)",
+      "location": "Toulouse, France",
+      "dates": "09/2022 – 10/2024",
+      "specialization1": "M2 MIAGE IPM (Ingénierie des Processus Métier)",
+      "courses": "Cours Principaux : Développement d’applications web, Analyse et conception de systèmes d’information (UML), Modélisation de processus métier (BPMN), Programmation orientée objet (JAVA), Gestion de projet agile",
+      "specialization2": "M1 MIAGE IM (Ingénierie Métier)",
+      "courses2": "Cours Principaux : Conception de site web(HTML, CSS, JS), OLAP(SAP-PO, Power BI), Développement de bases de données(MySQL, Oracle), Programmation structurée(Python)"
+    },
+    "preparatory": {
+      "title": "Année préparatoire pour Master MIAGE",
+      "university": "Faculté d'informatique | Université de Toulouse 1 Capitole (UT1)",
+      "location": "Toulouse, France",
+      "dates": "09/2021 - 06/2022"
+    },
+    "bachelor": {
+      "title": "Licence en Gestion des Ressources Humaines",
+      "university": "School of Labor Economics | Capital University of Economics and Business (CUEB)",
+      "location": "Pékin, Chine",
+      "dates": "09/2017 - 07/2021"
+    },
+    "exchange": {
+      "title": "Étudiante en échange à Dublin",
+      "university": "Business school | Dublin City University (DCU)",
+      "location": "Dublin, Irlande",
+      "dates": "08/2019 - 01/2020"
+    }
+  },
+  "experiences": {
+    "title": "Mes Experiences professionnelles"
+  },
+  "experiencesBA": {
+    "title": "Mes Expériences Bénévoles et Associatives"
+  },
+  "competences": {
+    "title": "Mes Compétences",
+    "techSkills": "Compétences Techniques",
+    "softSkills": "Soft Skills",
+    "learningAbility": "Capacité d'apprentissage rapide",
+    "teamwork": "Travail en équipe",
+    "initiative": "Esprit d'initiative",
+    "organization": "Sens de l'organisation",
+    "problemSolving": "Résolution de problèmes",
+    "internationalEnvironment": "Capacité à travailler dans un environnement international",
+    "adaptability": "Adaptabilité",
+    "communication": "Communication efficace"
+  },  
+  "contact": {
+    "title": "Contact",
+    "subtitle": "N’hésitez pas à me contacter !"
+  }
+}

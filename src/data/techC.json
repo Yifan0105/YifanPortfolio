@@ -1,0 +1,62 @@
+[
+  {
+    "title": {
+      "fr": "Développement Frontend",
+      "en": "Frontend Development"
+    },
+    "skills": {
+      "fr": "Angular, React, HTML, CSS, JavaScript, TypeScript, XML, AJAX, JSON, Figma (pour la conception d'UI/UX)",
+      "en": "Angular, React, HTML, CSS, JavaScript, TypeScript, XML, AJAX, JSON, Figma (for UI/UX design)"
+    }
+  },
+  {
+    "title": {
+      "fr": "Développement Backend",
+      "en": "Backend Development"
+    },
+    "skills": {
+      "fr": "Java, Python, Spring Boot (Java), Hibernate (Java), FastAPI (Python), Flask (Python), APIs REST, Apache Tomcat, Postman",
+      "en": "Java, Python, Spring Boot (Java), Hibernate (Java), FastAPI (Python), Flask (Python), REST APIs, Apache Tomcat, Postman"
+    }
+  },
+  {
+    "title": {
+      "fr": "Base de Données",
+      "en": "Databases"
+    },
+    "skills": {
+      "fr": "SQL, MySQL, Oracle, SQL Server, SQLite, Access, WampServer",
+      "en": "SQL, MySQL, Oracle, SQL Server, SQLite, Access, WampServer"
+    }
+  },
+  {
+    "title": {
+      "fr": "Business Intelligence",
+      "en": "Business Intelligence"
+    },
+    "skills": {
+      "fr": "PowerBI, Olap, Talend, DB designer",
+      "en": "PowerBI, Olap, Talend, DB designer"
+    }
+  },
+  {
+    "title": {
+      "fr": "Gestion de Version",
+      "en": "Version Control"
+    },
+    "skills": {
+      "fr": "Github, GitLab, Git",
+      "en": "Github, GitLab, Git"
+    }
+  },
+  {
+    "title": {
+      "fr": "Maîtrise du développement agile Scrum",
+      "en": "Agile Scrum Development Mastery"
+    },
+    "skills": {
+      "fr": "Scrum Team, Kanban, Trello",
+      "en": "Scrum Team, Kanban, Trello"
+    }
+  }
+]

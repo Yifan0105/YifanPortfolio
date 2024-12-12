@@ -1,0 +1,70 @@
+{
+    "title": "Yifan's Portfolio",
+    "navbar": {
+      "formations": "Formations",
+      "experiences": "Experiences",
+      "competences": "Skills",
+      "contact": "Contact"
+    },
+    "profil": {
+      "title": "Hello, I am Yifan",
+      "description": "Full-stack developer with hands-on experience in designing and developing web applications within an agile team.\n\nI am currently looking for a professional opportunity as a Developer. I am available immediately, flexible to relocate anywhere in France, and hold a valid residence permit (APS) allowing me to work in France.\n\nI am also open to opportunities across other European Union countries.",
+      "downloadCV": "Download my CV",
+      "altText": "Profile photo"
+    },
+    "formations": {
+      "title": "My Education",
+      "master": {
+        "title": "Master MIAGE (Applied IT Methods for Business Management)",
+        "university": "Faculty of Computer Science | University of Toulouse 1 Capitole (UT1)",
+        "location": "Toulouse, France",
+        "dates": "09/2022 – 10/2024",
+        "specialization1": "M2 MIAGE IPM (Business Process Engineering)",
+        "courses": "Main Courses: Web application development, Information systems analysis and design (UML), Business process modeling (BPMN), Object-oriented programming (JAVA), Agile project management",
+        "specialization2": "M1 MIAGE IM (Business Engineering)",
+        "courses2": "Main Courses: Website design (HTML, CSS, JS), OLAP (SAP-PO, Power BI), Database development (MySQL, Oracle), Structured programming (Python)"
+      },
+      "preparatory": {
+        "title": "Preparatory Year for Master MIAGE",
+        "university": "Faculty of Computer Science | University of Toulouse 1 Capitole (UT1)",
+        "location": "Toulouse, France",
+        "dates": "09/2021 - 06/2022"
+      },
+      "bachelor": {
+        "title": "Bachelor’s in Human Resource Management",
+        "university": "School of Labor Economics | Capital University of Economics and Business (CUEB)",
+        "location": "Beijing, China",
+        "dates": "09/2017 - 07/2021"
+      },
+      "exchange": {
+        "title": "Exchange Student in Dublin",
+        "university": "Business School | Dublin City University (DCU)",
+        "location": "Dublin, Ireland",
+        "dates": "08/2019 - 01/2020"
+      }
+    },
+    "experiences": {
+      "title": "My Professional Experiences"
+    },
+    "experiencesBA": {
+      "title": "My Voluntary and Associative Experiences"
+    },
+    "competences": {
+      "title": "My Skills",
+      "techSkills": "Tech Skills",
+      "softSkills": "Soft Skills",
+      "learningAbility": "Quick Learning Ability",
+      "teamwork": "Teamwork",
+      "initiative": "Initiative",
+      "organization": "Organizational Skills",
+      "problemSolving": "Problem Solving",
+      "internationalEnvironment": "Ability to Work in an International Environment",
+      "adaptability": "Adaptability",
+      "communication": "Effective Communication"
+    },
+    "contact": {
+      "title": "Contact",
+      "subtitle": "Feel free to contact me!"
+    }
+  }
+  

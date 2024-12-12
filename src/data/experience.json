@@ -1,0 +1,163 @@
+[
+  {
+    "role": {
+      "fr": "Développeuse Fullstack",
+      "en": "Full-stack Developer"
+    },
+    "organisation": {
+      "fr": "Alteca",
+      "en": "Alteca"
+    },
+    "location": {
+      "fr": "Toulouse, France",
+      "en": "Toulouse, France"
+    },
+    "startDate": "04/2024",
+    "endDate": "09/2024",
+    "experiences": {
+      "fr": [
+        "Développement de l'application web interne AltecaEvent de zéro à un, au sein d'une équipe de 3 stagiaires, sous la supervision d'un chef de projet technique, dans un environnement de travail francophone. L'application permet de créer et gérer des événements, répondre aux questionnaires associés, consulter les détails des événements et gérer les rôles des utilisateurs.",
+        "Répartition des tâches : 70 % de mon temps consacré au développement frontend avec Angular, et 30 % au backend avec FastAPI – Python.",
+        "Gestion de projet agile avec Trello, suivi des tâches, tests des APIs avec Postman, gestion du code avec Git, et prototypage des interfaces avec Figma pour optimiser l’expérience utilisateur. Utilisation de Visual Studio pour le développement du code.",
+        "Résultat : nous avons achevé 95 % du développement de l’application, et la partie restante nécessite une intégration avec le système interne existant de l’entreprise.",
+        "Références - Tuteur de stage: SAVARY Christophe < csavary@alteca.fr >"
+      ],
+      "en": [
+        "Developed the internal web application AltecaEvent from scratch, as part of a team of 3 interns, under the supervision of a technical project manager, in a French-speaking work environment. The application allows for creating and managing events, answering associated questionnaires, viewing event details, and managing user roles.",
+        "Task distribution: 70% of my time was spent on frontend development with Angular, and 30% on the backend with FastAPI – Python.",
+        "Agile project management with Trello, task tracking, API testing with Postman, code management with Git, and interface prototyping with Figma to optimize the user experience. Used Visual Studio for code development.",
+        "Result: We completed 95% of the application development, with the remaining part requiring integration with the company’s internal system.",
+        "References - Internship supervisor: SAVARY Christophe < csavary@alteca.fr >"
+      ]
+    },
+    "imageSrc": "./assets/experience/Alteca.jpg",
+    "keyword": {
+      "fr": "Application web, Angular, FastAPI – Python, Agile, APIs, Git, Trello, Postman, Visual Studio",
+      "en": "Web application, Angular, FastAPI – Python, Agile, APIs, Git, Trello, Postman, Visual Studio"
+    }
+  },
+  {
+    "role": {
+      "fr": "Business Intelligence",
+      "en": "Business Intelligence"
+    },
+    "organisation": {
+      "fr": "Andros Chine",
+      "en": "Andros China"
+    },
+    "location": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China"
+    },
+    "startDate": "05/2023",
+    "endDate": "08/2023",
+    "experiences": {
+      "fr": [
+        "Analyse des données de vente avec Power BI : Utilisation de Power BI pour réaliser une analyse détaillée et approfondie des données de vente. Conception de tableaux de bord interactifs offrant aux cadres dirigeants une visualisation claire et des insights stratégiques pour une prise de décision éclairée.",
+        "Veille concurrentielle et étude de marché : Analyse approfondie des tendances du marché et des stratégies des produits similaires proposés par les concurrents. Contribution essentielle à l’élaboration des orientations stratégiques et à la planification de nouveaux produits, renforçant ainsi la compétitivité et l’innovation de l’entreprise."
+      ],
+      "en": [
+        "Sales data analysis with Power BI: Using Power BI to conduct a detailed and in-depth analysis of sales data. Designing interactive dashboards that provide senior management with clear visualizations and strategic insights for informed decision-making.",
+        "Competitive intelligence and market research: In-depth analysis of market trends and strategies of similar products offered by competitors. Contributing to the development of strategic directions and planning of new products, thus enhancing the company's competitiveness and innovation."
+      ]
+    },
+    "imageSrc": "./assets/experience/andros.png",
+    "keyword": {
+      "fr": "PowerBI, Analyse de données, Aide à la décision",
+      "en": "PowerBI, Data analysis, Decision support"
+    }
+  },
+  {
+    "role": {
+      "fr": "Human Resources (HRBP)",
+      "en": "Human Resources (HRBP)"
+    },
+    "organisation": {
+      "fr": "ByteDance",
+      "en": "ByteDance"
+    },
+    "location": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China"
+    },
+    "startDate": "09/2020",
+    "endDate": "11/2020",
+    "experiences": {
+      "fr": [
+        "Analyser les données de recrutement pour aider les unités commerciales à trouver des candidats appropriés.",
+        "Gestion efficace du processus de recrutement."
+      ],
+      "en": [
+        "Analyzing recruitment data to assist business units in finding suitable candidates.",
+        "Effectively managing the recruitment process."
+      ]
+    },
+    "imageSrc": "./assets/experience/bytedance.png",
+    "keyword": {
+      "fr": "Communication efficace, Gestion du recrutement",
+      "en": "Effective communication, Recruitment management"
+    }
+  },
+  {
+    "role": {
+      "fr": "Talent Team",
+      "en": "Talent Team"
+    },
+    "organisation": {
+      "fr": "Ernst & Young",
+      "en": "Ernst & Young"
+    },
+    "location": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China"
+    },
+    "startDate": "06/2020",
+    "endDate": "09/2020",
+    "experiences": {
+      "fr": [
+        "Utiliser Excel pour aider l'équipe RH à traiter les données de recrutement et organiser des entretiens.",
+        "Soutien administratif aux équipes RH dans la gestion du recrutement."
+      ],
+      "en": [
+        "Using Excel to assist the HR team in processing recruitment data and organizing interviews.",
+        "Providing administrative support to HR teams in recruitment management."
+      ]
+    },
+    "imageSrc": "./assets/experience/ey.webp",
+    "keyword": {
+      "fr": "Excel, Traitement des données de recrutement",
+      "en": "Excel, Recruitment data processing"
+    }
+  },
+  {
+    "role": {
+      "fr": "Human Resources",
+      "en": "Human Resources"
+    },
+    "organisation": {
+      "fr": "Baidu",
+      "en": "Baidu"
+    },
+    "location": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China"
+    },
+    "startDate": "02/2020",
+    "endDate": "05/2020",
+    "experiences": {
+      "fr": [
+        "Trouver les candidats appropriés en fonction des besoins en personnel de l'équipe V2X (Vehicle-to-everything).",
+        "Organisation et gestion du temps pour optimiser le processus de recrutement."
+      ],
+      "en": [
+        "Finding suitable candidates based on the staffing needs of the V2X (Vehicle-to-everything) team.",
+        "Organizing and managing time to optimize the recruitment process."
+      ]
+    },
+    "imageSrc": "./assets/experience/baidu.webp",
+    "keyword": {
+      "fr": "Organisation, Gestion du temps, Attention aux détails",
+      "en": "Organization, Time management, Attention to detail"
+    }
+  }
+]

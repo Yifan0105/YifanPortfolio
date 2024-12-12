@@ -1,0 +1,76 @@
+[
+  {
+    "title": "Angular",
+    "imageSrc": "./assets/skills/angular.webp"
+  },
+  {
+    "title": "React",
+    "imageSrc": "./assets/skills/react.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "./assets/skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "./assets/skills/css.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "./assets/skills/java.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "./assets/skills/python.webp"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "./assets/skills/javascript.webp"
+  },
+  {
+    "title": "TypeScript",
+    "imageSrc": "./assets/skills/typescript.svg"
+  },
+  {
+    "title": "Spring Boot",
+    "imageSrc": "./assets/skills/springboot.png"
+  },
+  {
+    "title": "FastAPI",
+    "imageSrc": "./assets/skills/fastapi.svg"
+  },  
+  {
+    "title": "MySQL",
+    "imageSrc": "./assets/skills/mysql.svg"
+  },
+  {
+    "title": "Hibernate",
+    "imageSrc": "./assets/skills/hibernate.png"
+  },
+  {
+    "title": "Oracle",
+    "imageSrc": "./assets/skills/oracle.webp"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "./assets/skills/figma.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "./assets/skills/postman.webp"
+  },
+  {
+    "title": "PowerBI",
+    "imageSrc": "./assets/skills/powerbi.webp"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "./assets/skills/git.png"
+  },
+  {
+    "title": "VS Code",
+    "imageSrc": "./assets/skills/vs.webp"
+  }
+]
+
+  

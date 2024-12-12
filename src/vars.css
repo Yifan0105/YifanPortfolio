@@ -1,0 +1,13 @@
+/* for other css use, we can importer this file and css style */
+
+:root {
+    /* colours */ 
+    --color-text: #ffffff;
+    --color-primary: #576cbc;
+    --color-secondary: #19376d;
+    --color-dark: #0b2447;
+    --color-background: #04152d;
+
+    /* fonts */
+    --font-robot: 'Roboto';
+}

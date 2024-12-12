@@ -1,0 +1,80 @@
+[
+  {
+    "role": {
+      "fr": "Volontaire - Corps Européen de Solidarité (European Solidarity Corps)",
+      "en": "Volunteer - European Solidarity Corps"
+    },
+    "organisation": {
+      "fr": "Fondation des Jeunes du Comté de Timiș",
+      "en": "Youth Foundation of Timiș County"
+    },
+    "location": {
+      "fr": "Timișoara, Roumanie",
+      "en": "Timișoara, Romania"
+    },
+    "startDate": {
+      "fr": "08/2022",
+      "en": "08/2022"
+    },
+    "endDate": {
+      "fr": "1 mois",
+      "en": "1 month"
+    },
+    "experiences": {
+      "fr": [
+        "Participation à des activités bénévoles en organisant et en promouvant des événements éducatifs, artistiques, culturels et sportifs pour les jeunes de Timișoara.",
+        "Création d'un calendrier d'activités, conception de supports de communication, et gestion de la promotion et de la préparation des événements.",
+        "Engagement dans la gestion des événements, collaboration avec des jeunes de différentes nationalités et cultures, et apprentissage de méthodes de développement communautaire."
+      ],
+      "en": [
+        "Participation in volunteer activities by organizing and promoting educational, artistic, cultural, and sports events for young people in Timișoara.",
+        "Creating an activity calendar, designing communication materials, and managing the promotion and preparation of events.",
+        "Engagement in event management, collaborating with young people from different nationalities and cultures, and learning community development methods."
+      ]
+    },
+    "imageSrc": "./assets/experience/ces.png",
+    "keyword": {
+      "fr": "Bénévolat, Événements, Jeunesse, Communication, Développement communautaire",
+      "en": "Volunteering, Events, Youth, Communication, Community Development"
+    }
+  },
+  {
+    "role": {
+      "fr": "Vice Présidente - Club des Langues Étrangères",
+      "en": "Vice President - Foreign Language Club"
+    },
+    "organisation": {
+      "fr": "Université de l'Économie et du Commerce de Pékin (CUEB)",
+      "en": "University of Economics and Business of Beijing (CUEB)"
+    },
+    "location": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China"
+    },
+    "startDate": {
+      "fr": "09/2018",
+      "en": "09/2018"
+    },
+    "endDate": {
+      "fr": "07/2019",
+      "en": "07/2019"
+    },
+    "experiences": {
+      "fr": [
+        "Gestion d'un club de plus de 100 membres, organisation d'activités internes et collaboration avec des organisations externes.",
+        "Coordination avec des clubs de langues étrangères dans les universités de Pékin, les centres culturels des ambassades et les écoles de langues locales.",
+        "Partenariats établis avec des institutions telles que New Oriental, l'Académie de Japonais Wuming Tian, l'Ambassade de Russie en Chine et l'Université des Langues Étrangères du Nord de Pékin."
+      ],
+      "en": [
+        "Managed a club with over 100 members, organized internal activities, and collaborated with external organizations.",
+        "Coordinated with foreign language clubs at universities in Beijing, cultural centers of embassies, and local language schools.",
+        "Established partnerships with institutions such as New Oriental, Wuming Tian Japanese Academy, the Russian Embassy in China, and the Beijing University of Foreign Languages."
+      ]
+    },
+    "imageSrc": "./assets/formations/CUEB.png",
+    "keyword": {
+      "fr": "Gestion, Clubs, Partenariats, Langues étrangères, Événements",
+      "en": "Management, Clubs, Partnerships, Foreign Languages, Events"
+    }
+  }
+]
