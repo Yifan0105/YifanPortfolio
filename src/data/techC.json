@@ -1,7 +1,7 @@
 [
   {
     "title": {
-      "cn": "前端开发",
+      "cn": "前端",
       "en": "Frontend Development"
     },
     "skills": {
@@ -11,7 +11,7 @@
   },
   {
     "title": {
-      "cn": "后端开发",
+      "cn": "后端",
       "en": "Backend Development"
     },
     "skills": {
@@ -31,12 +31,12 @@
   },
   {
     "title": {
-      "cn": "商业智能",
-      "en": "Business Intelligence"
+      "cn": "数据分析与商业智能",
+      "en": "Data Analysis and Business Intelligence"
     },
     "skills": {
-      "cn": "PowerBI, Olap, Talend, 数据库设计器",
-      "en": "PowerBI, Olap, Talend, DB designer"
+      "cn": "Python, PowerBI, Olap, Talend, DB designer",
+      "en": "Python,PowerBI, Olap, Talend, DB designer"
     }
   },
   {
@@ -51,12 +51,12 @@
   },
   {
     "title": {
-      "cn": "敏捷Scrum开发精通",
-      "en": "Agile Scrum Development Mastery"
+      "cn": "敏捷Scrum开发",
+      "en": "Agile Scrum Development "
     },
     "skills": {
-      "cn": "Scrum团队, 看板, Trello",
-      "en": "Scrum Team, Kanban, Trello"
+      "cn": "敏捷团队, 看板, Trello",
+      "en": "Agile Team, Kanban, Trello"
     }
   }
 ]

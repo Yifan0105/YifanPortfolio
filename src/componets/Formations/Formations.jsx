@@ -30,6 +30,8 @@ export const Formations = ({ lang }) => {
                 {translate(lang, 'formations.preparatory.university')}
                 <br />
                 {translate(lang, 'formations.preparatory.location')} | {translate(lang, 'formations.preparatory.dates')}
+                <br /><br />
+                {translate(lang, 'formations.preparatory.courses')}
               </div>
           </li>
           <li className={styles.formationItem}>
@@ -39,6 +41,10 @@ export const Formations = ({ lang }) => {
                 {translate(lang, 'formations.bachelor.university')}
                 <br />
                 {translate(lang, 'formations.bachelor.location')} | {translate(lang, 'formations.bachelor.dates')}
+                <br /><br />
+                {translate(lang, 'formations.bachelor.courses')}
+                <br /><br />
+                {translate(lang, 'formations.bachelor.gpa')}
               </div>
           </li>
           <li className={styles.formationItem}>
@@ -48,7 +54,8 @@ export const Formations = ({ lang }) => {
                 {translate(lang, 'formations.exchange.university')}
                 <br />
                 {translate(lang, 'formations.exchange.location')} | {translate(lang, 'formations.exchange.dates')}
-                <p></p>
+                <br /><br />
+                {translate(lang, 'formations.exchange.courses')}
               </div>
           </li>
         </ul>

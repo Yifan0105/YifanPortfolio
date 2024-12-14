@@ -1,11 +1,11 @@
 [
   {
     "role": {
-      "cn": "志愿者 - 欧洲团结部队",
+      "cn": "志愿者 - 欧洲团结军团（European Solidarity Corps）",
       "en": "Volunteer - European Solidarity Corps"
     },
     "organisation": {
-      "cn": "蒂米什县青年基金会",
+      "cn": "蒂米什瓦拉青年基金会",
       "en": "Youth Foundation of Timiș County"
     },
     "location": {
@@ -40,12 +40,12 @@
   },
   {
     "role": {
-      "cn": "外语俱乐部 - 副主席",
+      "cn": "万国语社 — 副社长",
       "en": "Vice President - Foreign Language Club"
     },
     "organisation": {
-      "cn": "北京经济商业大学",
-      "en": "University of Economics and Business of Beijing (CUEB)"
+      "cn": "首都经济贸易大学",
+      "en": "Capital University of Economics and Business"
     },
     "location": {
       "cn": "中国北京",
@@ -62,19 +62,55 @@
     "experiences": {
       "cn": [
         "管理一个拥有100多名成员的俱乐部，组织内部活动并与外部组织合作。",
-        "与北京大学的外语俱乐部、大使馆文化中心和本地语言学校协调。",
-        "与新东方、吴名天日语学院、中国俄罗斯大使馆和北京外国语大学等机构建立合作伙伴关系。"
+        "与北京其他大学的外语俱乐部、大使馆文化中心和本地语言学校协调。",
+        "在职期间与新东方、未名天日语学院、中国俄罗斯大使馆和北京第二外国语大学等机构建立合作伙伴关系。"
       ],
       "en": [
         "Managed a club with over 100 members, organized internal activities, and collaborated with external organizations.",
         "Coordinated with foreign language clubs at universities in Beijing, cultural centers of embassies, and local language schools.",
-        "Established partnerships with institutions such as New Oriental, Wuming Tian Japanese Academy, the Russian Embassy in China, and the Beijing University of Foreign Languages."
+        "Established partnerships with institutions such as Xindongfang, Weimingtian Japanese Academy, the Russian Embassy in China, and the Beijing Second Foreign Language University."
       ]
     },
     "imageSrc": "./assets/formations/CUEB.png",
     "keyword": {
       "cn": "管理，俱乐部，合作伙伴关系，外语，活动",
       "en": "Management, Clubs, Partnerships, Foreign Languages, Events"
+    }
+  },
+  {
+    "role": {
+      "cn": "劳动经济学院 — 外联部干事",
+      "en": "Officer — External Relations Department"
+    },
+    "organisation": {
+      "cn": "首都经济贸易大学",
+      "en": "Capital University of Economics and Business"
+    },
+    "location": {
+      "cn": "中国北京",
+      "en": "Beijing, China"
+    },
+    "startDate": {
+      "cn": "09/2017",
+      "en": "09/2017"
+    },
+    "endDate": {
+      "cn": "07/2018",
+      "en": "07/2018"
+    },
+    "experiences": {
+      "cn": [
+        "负责首经贸劳经学院迎新晚会，“一二九”合唱比赛，校运动会等的赞助，策划和组织工作。",
+        "作为外联部骨干成员，多次成功为学院活动拉取赞助商。在职期间被评为院级优秀干事。"
+      ],
+      "en": [
+        "Responsible for organizing and coordinating sponsorships, planning and organizing events such as the school's freshman welcoming party, the 129 Choral Competition, and the school's sports meet."
+      ]
+    },
+    "imageSrc": "./assets/formations/CUEB.png",
+    "keyword": {
+      "cn": "外联部，活动",
+      "en": "External relations department, activities"
     }
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "role": {
-      "cn": "全栈开发者",
+      "cn": "全栈工程师",
       "en": "Full-stack Developer"
     },
     "organisation": {
@@ -17,32 +17,34 @@
     "experiences": {
       "cn": [
         "在一个由3名实习生组成的团队中，在技术项目经理的监督下，从零开始开发内部Web应用程序AltecaEvent，工作环境为法语环境。该应用程序可以创建和管理活动，回答相关问题卷，查看活动详情和管理用户角色。",
-        "任务分配：70%的时间用于使用Angular进行前端开发，30%用于使用FastAPI – Python进行后端开发。",
-        "使用Trello进行敏捷项目管理，跟踪任务，使用Postman测试API，使用Git管理代码，并使用Figma原型设计界面以优化用户体验。使用Visual Studio进行代码开发。",
+        "个人任务分配：70%的时间用于使用Angular进行前端开发，30%的时间用于使用FastAPI（Python）进行后端开发。",
+        "使用Trello进行敏捷项目管理，跟踪任务进度，使用Postman测试APIs，使用Git进行代码管理，并使用Figma进行界面原型设计以优化用户体验。使用Visual Studio进行代码开发。",
         "结果：我们完成了应用程序开发的95%，剩余部分需要与公司现有的内部系统进行集成。",
-        "参考人 - 实习导师：SAVARY Christophe < csavary@alteca.fr >"
+        "项目成果：完成了应用开发的95%，剩余部分需要与公司现有的内部系统集成。",
+        "经验总结：增加了我从零开始构建软件项目的经验，尤其在技术开发、项目管理、用户体验设计和需求收集等关键领域。"
       ],
       "en": [
-        "Developed the internal web application AltecaEvent from scratch, as part of a team of 3 interns, under the supervision of a technical project manager, in a French-speaking work environment. The application allows for creating and managing events, answering associated questionnaires, viewing event details, and managing user roles.",
-        "Task distribution: 70% of my time was spent on frontend development with Angular, and 30% on the backend with FastAPI – Python.",
-        "Agile project management with Trello, task tracking, API testing with Postman, code management with Git, and interface prototyping with Figma to optimize the user experience. Used Visual Studio for code development.",
-        "Result: We completed 95% of the application development, with the remaining part requiring integration with the company's internal system.",
-        "References - Internship supervisor: SAVARY Christophe < csavary@alteca.fr >"
+        "Developed the internal web application AltecaEvent from scratch within a team of 3 interns, under the supervision of a technical project manager in a French-speaking work environment. The application enables creating and managing events, responding to associated questionnaires, viewing event details, and managing user roles.",
+        "Personal task allocation: 70% of time dedicated to frontend development using Angular, and 30% to backend development with FastAPI (Python).",
+        "Utilized Agile project management with Trello for task tracking, Postman for API testing, Git for code management, and Figma for interface prototyping to optimize user experience. Developed code using Visual Studio.",
+        "Project outcome: Completed 95% of the application development, with the remaining portion requiring integration with the company's existing internal systems.",
+        "Key learnings: Gained valuable experience in building software projects from the ground up, particularly in critical areas such as technical development, project management, user experience design, and requirements gathering.",
+        "Experience summary: Increased my experience in building software projects from scratch, especially in key areas such as technical development, project management, user experience design and requirements gathering."
       ]
     },
     "imageSrc": "./assets/experience/Alteca.jpg",
     "keyword": {
       "cn": "Web应用程序，Angular，FastAPI – Python，敏捷开发，API，Git，Trello，Postman，Visual Studio",
-      "en": "Web application, Angular, FastAPI – Python, Agile, APIs, Git, Trello, Postman, Visual Studio"
+      "en": "Web application, Angular, FastAPI – Python, Agile Development, APIs, Git, Trello, Postman, Visual Studio"
     }
   },
   {
     "role": {
-      "cn": "商业智能",
-      "en": "Business Intelligence"
+      "cn": "项目管理",
+      "en": "Project Management"
     },
     "organisation": {
-      "cn": "安卓中国",
+      "cn": "Andros China",
       "en": "Andros China"
     },
     "location": {
@@ -57,20 +59,20 @@
         "竞争性情报和市场研究：深入分析市场趋势和竞争对手类似产品的策略。为制定战略方向和规划新产品做出重要贡献，从而增强公司的竞争力和创新能力。"
       ],
       "en": [
-        "Sales data analysis with Power BI: Using Power BI to conduct a detailed and in-depth analysis of sales data. Designing interactive dashboards that provide senior management with clear visualizations and strategic insights for informed decision-making.",
-        "Competitive intelligence and market research: In-depth analysis of market trends and strategies of similar products offered by competitors. Contributing to the development of strategic directions and planning of new products, thus enhancing the company's competitiveness and innovation."
+        "Conducted comprehensive sales data analysis using Power BI: Performed an in-depth and detailed analysis of sales data. Designed interactive dashboards that provide senior management with clear visualizations and strategic insights to support informed decision-making.",
+        "Performed competitive intelligence and market research: Conducted a thorough analysis of market trends and strategies of competitors' similar products. Made significant contributions to strategic direction and new product planning, thereby enhancing the company's competitiveness and innovation capabilities."
       ]
     },
     "imageSrc": "./assets/experience/andros.png",
     "keyword": {
       "cn": "PowerBI，数据分析，决策支持",
-      "en": "PowerBI, Data analysis, Decision support"
+      "en": "PowerBI, Data Analysis, Decision Support"
     }
   },
   {
     "role": {
-      "cn": "人力资源（HRBP）",
-      "en": "Human Resources (HRBP)"
+      "cn": "HRBP- 招聘方向",
+      "en": "HRBP"
     },
     "organisation": {
       "cn": "字节跳动",
@@ -84,27 +86,27 @@
     "endDate": "11/2020",
     "experiences": {
       "cn": [
-        "分析招聘数据，帮助业务部门找到合适的候选人。",
+        "分析招聘数据，帮助产品研发和工程架构部门找到合适的候选人。",
         "有效管理招聘流程。"
       ],
       "en": [
-        "Analyzing recruitment data to assist business units in finding suitable candidates.",
-        "Effectively managing the recruitment process."
+        "Conducted in-depth analysis of recruitment data to assist product R&D and engineering architecture departments in identifying suitable candidates.",
+        "Managed the recruitment process efficiently and strategically."
       ]
     },
     "imageSrc": "./assets/experience/bytedance.png",
     "keyword": {
       "cn": "有效沟通，招聘管理",
-      "en": "Effective communication, Recruitment management"
+      "en": "Effective Communication, Recruitment Management"
     }
   },
   {
     "role": {
-      "cn": "人才团队",
+      "cn": "Talent Team",
       "en": "Talent Team"
     },
     "organisation": {
-      "cn": "安永",
+      "cn": "安永EY",
       "en": "Ernst & Young"
     },
     "location": {
@@ -116,22 +118,22 @@
     "experiences": {
       "cn": [
         "使用Excel辅助人力资源团队处理招聘数据并组织面试。",
-        "为人力资源团队在招聘管理中提供行政支持。"
+        "帮助人力资源团队在招聘管理中提供行政支持。"
       ],
       "en": [
-        "Using Excel to assist the HR team in processing recruitment data and organizing interviews.",
-        "Providing administrative support to HR teams in recruitment management."
+        "Supported the HR team by utilizing Excel to process recruitment data.",
+        "Provided comprehensive administrative support to HR teams throughout the recruitment management process."
       ]
     },
     "imageSrc": "./assets/experience/ey.webp",
     "keyword": {
       "cn": "Excel，招聘数据处理",
-      "en": "Excel, Recruitment data processing"
+      "en": "Excel, Recruitment Data Processing"
     }
   },
   {
     "role": {
-      "cn": "人力资源",
+      "cn": "HR",
       "en": "Human Resources"
     },
     "organisation": {
@@ -146,18 +148,18 @@
     "endDate": "05/2020",
     "experiences": {
       "cn": [
-        "根据V2X（车对一切）团队的人员需求，寻找合适的候选人。",
+        "根据车联网团队的人员需求，寻找合适的候选人。",
         "组织和管理时间，以优化招聘流程。"
       ],
       "en": [
-        "Finding suitable candidates based on the staffing needs of the V2X (Vehicle-to-everything) team.",
-        "Organizing and managing time to optimize the recruitment process."
+        "Sourced and identified suitable candidates based on the specific staffing requirements of the V2X (Vehicle-to-everything) team.",
+        "Optimized recruitment process through strategic time management and organizational skills."
       ]
     },
     "imageSrc": "./assets/experience/baidu.webp",
     "keyword": {
       "cn": "组织，时间管理，注重细节",
-      "en": "Organization, Time management, Attention to detail"
+      "en": "Organization, Time Management, Attention to Detail"
     }
   }
 ]

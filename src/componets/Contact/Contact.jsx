@@ -6,8 +6,8 @@ export const Contact = ({ lang }) => {
   return (
     <footer id="contact" className={styles.container}>
       <div className={styles.text}>
-        <h2>{translate(lang, 'contact.title', 'Contact')}</h2>
-        <p>{translate(lang, 'contact.subtitle', 'N’hésitez pas à me contacter !')}</p>
+        <h2>{translate(lang, 'contact.title')}</h2>
+        <p>{translate(lang, 'contact.subtitle')}</p>
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>

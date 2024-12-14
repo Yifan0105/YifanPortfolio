@@ -46,6 +46,7 @@ export const Competences = ({ lang }) => {
         <h2 className={styles.titleA}>
           ☆ {translate(lang, 'competences.softSkills')} 
         </h2>
+          <h3>{translate(lang, 'competences.softSkillsText')}</h3>
         <div className={styles.cardsContainer}>
           <div className={styles.card}>
             <h3>{translate(lang, 'competences.learningAbility')}</h3>

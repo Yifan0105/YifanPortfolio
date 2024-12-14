@@ -1,70 +1,74 @@
 {
-    "title": "Yifan's Portfolio",
-    "navbar": {
-      "formations": "Formations",
-      "experiences": "Experiences",
+  "title": "Yifan's Portfolio",
+  "navbar": {
+      "formations": "Education",
+      "experiences": "Internships",
       "competences": "Skills",
       "contact": "Contact"
-    },
-    "profil": {
-      "title": "Hello, I am Yifan",
-      "description": "Full-stack developer with hands-on experience in designing and developing web applications within an agile team.\n\nI am currently looking for a professional opportunity as a Developer. I am available immediately, flexible to relocate anywhere in France, and hold a valid residence permit (APS) allowing me to work in France.\n\nI am also open to opportunities across other European Union countries.",
-      "downloadCV": "Download my CV",
-      "altText": "Profile photo"
-    },
-    "formations": {
-      "title": "My Education",
+  },
+  "profil": {
+      "title": "Hello, I'm Yifan",
+      "description": "☆ Currently seeking opportunities for 2025 campus recruitment (expected to receive graduation certificate around February 2025)\n\n☆ Holding a Master's degree in the field of Computer Science and a Bachelor's degree in Management. My study abroad experience has provided me with excellent English and French language skills, enabling cross-cultural communication and collaboration with international teams.\n\n☆ Technically proficient with a deep understanding of business requirements. Skilled in communication, team coordination, and inter-team collaboration. Passionate about new technologies, always staying updated with industry trends, and eager to continuously learn new skills and embrace challenges to improve myself.\n\n☆ Excited to embark on my first official professional journey, dedicating my skills and passion to a challenging and opportunity-rich work environment!",
+      "downloadCV": "Download My Resume",
+      "altText": "Personal Portrait"
+  },
+  "formations": {
+      "title": "My Educational Background",
       "master": {
-        "title": "Master MIAGE (Applied IT Methods for Business Management)",
-        "university": "Faculty of Computer Science | University of Toulouse 1 Capitole (UT1)",
-        "location": "Toulouse, France",
-        "dates": "09/2022 – 10/2024",
-        "specialization1": "M2 MIAGE IPM (Business Process Engineering)",
-        "courses": "Main Courses: Web application development, Information systems analysis and design (UML), Business process modeling (BPMN), Object-oriented programming (JAVA), Agile project management",
-        "specialization2": "M1 MIAGE IM (Business Engineering)",
-        "courses2": "Main Courses: Website design (HTML, CSS, JS), OLAP (SAP-PO, Power BI), Database development (MySQL, Oracle), Structured programming (Python)"
+          "title": "Master's Degree in Computer-related Fields (MIAGE: Computer Science Methods Applied to Business Management)",
+          "university": "Computer Science Institute | University of Toulouse 1",
+          "location": "Toulouse, France",
+          "dates": "September 2022 – October 2024",
+          "specialization1": "M2 Second Year Master: MIAGE IPM (Business Process Engineering)",
+          "courses": "Key Courses: Dynamic Web Application Development, Information Systems Analysis and Design (UML), Business Process Modeling (BPMN), Object-Oriented Programming (JAVA), Machine Learning Fundamentals, Agile Management, etc.",
+          "specialization2": "M1 First Year Master: MIAGE IM (Business Engineering)",
+          "courses2": "Key Courses: Website Design (HTML, CSS, JS), Business Intelligence System Models and Methods (OLAP, Power BI, Talend, etc.), Database Development (MySQL, Oracle, etc.), Python Data Analysis, Project Management, etc."
       },
       "preparatory": {
-        "title": "Preparatory Year for Master MIAGE",
-        "university": "Faculty of Computer Science | University of Toulouse 1 Capitole (UT1)",
-        "location": "Toulouse, France",
-        "dates": "09/2021 - 06/2022"
+          "title": "MIAGE Master's Preparatory Program",
+          "university": "Computer Science Institute | University of Toulouse 1",
+          "location": "Toulouse, France",
+          "dates": "September 2021 - June 2022",
+          "courses": "Key Courses: French Language, Information System Architecture and Design, Java Fundamentals, SQL Basics, Access Database, Project Management, etc."
       },
       "bachelor": {
-        "title": "Bachelor’s in Human Resource Management",
-        "university": "School of Labor Economics | Capital University of Economics and Business (CUEB)",
-        "location": "Beijing, China",
-        "dates": "09/2017 - 07/2021"
+          "title": "Bachelor's Degree in Human Resource Management",
+          "university": "School of Labor Economics | Capital University of Economics and Business",
+          "location": "Beijing, China",
+          "dates": "September 2017 - July 2021",
+          "courses": "Key Courses: Management, Microeconomics, Macroeconomics, Management Information Systems, Accounting, Human Resources Management-related Professional Courses, etc.",
+          "gpa": "GPA: 88.52/100. Recipient of University-level First-Class Scholarship, Outstanding League Member, etc."
       },
       "exchange": {
-        "title": "Exchange Student in Dublin",
-        "university": "Business School | Dublin City University (DCU)",
-        "location": "Dublin, Ireland",
-        "dates": "08/2019 - 01/2020"
+          "title": "Exchange Student",
+          "university": "Business School | Dublin City University",
+          "location": "Dublin, Ireland",
+          "dates": "August 2019 - January 2020",
+          "courses": "Key Courses: Management Accounting for Decision Making, Human Resources Management, Business Information Systems, Statistics for Business and Economics, etc."
       }
-    },
-    "experiences": {
-      "title": "My Professional Experiences"
-    },
-    "experiencesBA": {
-      "title": "My Voluntary and Associative Experiences"
-    },
-    "competences": {
+  },
+  "experiences": {
+      "title": "My Internship Experiences"
+  },
+  "experiencesBA": {
+      "title": "My Volunteering & Club Experiences"
+  },
+  "competences": {
       "title": "My Skills",
-      "techSkills": "Tech Skills",
+      "techSkills": "Technical Skills",
       "softSkills": "Soft Skills",
-      "learningAbility": "Quick Learning Ability",
+      "softSkillsText": "As a travel enthusiast who has traveled independently multiple times, I have developed strong adaptability and problem-solving skills through exploring different cultural backgrounds. These experiences have broadened my perspective, deepening my understanding and respect for world diversity. Additionally, I love sports and photography, passionate about capturing beautiful moments in life. Outgoing and enthusiastic, I excel in communication with exceptional empathy, expression, and interpersonal skills. In team collaboration, I can effectively coordinate and manage, actively driving project progress, ensuring team efficiency, and successfully achieving project goals.",
+      "learningAbility": "Quick Learning",
       "teamwork": "Teamwork",
-      "initiative": "Initiative",
+      "initiative": "Proactivity",
       "organization": "Organizational Skills",
-      "problemSolving": "Problem Solving",
-      "internationalEnvironment": "Ability to Work in an International Environment",
+      "problemSolving": "Problem-Solving",
+      "internationalEnvironment": "International Environment Adaptability",
       "adaptability": "Adaptability",
       "communication": "Effective Communication"
-    },
-    "contact": {
-      "title": "Contact",
-      "subtitle": "Feel free to contact me!"
-    }
+  },
+  "contact": {
+      "title": "Contact Information",
+      "subtitle": "Feel free to contact me anytime!"
   }
-  
+}
