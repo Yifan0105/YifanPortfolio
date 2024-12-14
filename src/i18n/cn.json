@@ -1,0 +1,69 @@
+{ 
+  "title": "Yifan的个人网站",
+  "navbar": {
+    "formations": "教育背景",
+    "experiences": "实习经历",
+    "competences": "技能",
+    "contact": "联系方式"
+  },
+  "profil": {
+    "title": "你好，我是Yifan",
+    "description": "全栈开发工程师，具有在敏捷团队中设计和开发Web应用的实际经验。\n\n目前我正在寻找一份长期或短期的开发岗位工作机会。我可以立即上岗，可在法国各地工作，并持有有效的居留证件（APS签证），允许在法国境内工作。\n\n我也愿意考虑欧盟其他国家的工作机会。",
+    "downloadCV": "下载我的简历",
+    "altText": "个人头像"
+  },
+  "formations": {
+    "title": "我的教育背景",
+    "master": {
+      "title": "MIAGE硕士学位（企业管理信息技术方法）",
+      "university": "计算机学院 | 图卢兹第一大学",
+      "location": "图卢兹，法国",
+      "dates": "2022年9月 – 2024年10月",
+      "specialization1": "第二年：MIAGE IPM（业务流程工程）",
+      "courses": "主要课程：Web应用开发，信息系统分析与设计（UML），业务流程建模（BPMN），面向对象编程（JAVA），敏捷项目管理",
+      "specialization2": "第一年：MIAGE IM（业务工程）",
+      "courses2": "主要课程：网站设计（HTML、CSS、JS），OLAP（SAP-PO、Power BI），数据库开发（MySQL、Oracle），结构化编程（Python）"
+    },
+    "preparatory": {
+      "title": "MIAGE硕士预科",
+      "university": "计算机学院 | 图卢兹第一大学",
+      "location": "图卢兹，法国",
+      "dates": "2021年9月 - 2022年6月"
+    },
+    "bachelor": {
+      "title": "人力资源管理学士学位",
+      "university": "劳动经济学院 | 首都经济贸易大学",
+      "location": "北京，中国",
+      "dates": "2017年9月 - 2021年7月"
+    },
+    "exchange": {
+      "title": "都柏林交换生",
+      "university": "商学院 | 都柏林城市大学",
+      "location": "都柏林，爱尔兰",
+      "dates": "2019年8月 - 2020年1月"
+    }
+  },
+  "experiences": {
+    "title": "我的实习经历"
+  },
+  "experiencesBA": {
+    "title": "我的志愿与社团经历"
+  },
+  "competences": {
+    "title": "我的技能",
+    "techSkills": "技术技能",
+    "softSkills": "软技能",
+    "learningAbility": "快速学习能力",
+    "teamwork": "团队合作",
+    "initiative": "主动性",
+    "organization": "组织能力",
+    "problemSolving": "问题解决能力",
+    "internationalEnvironment": "适应国际化环境的能力",
+    "adaptability": "适应能力",
+    "communication": "有效沟通"
+  },  
+  "contact": {
+    "title": "联系方式",
+    "subtitle": "欢迎随时联系我！"
+  }
+}

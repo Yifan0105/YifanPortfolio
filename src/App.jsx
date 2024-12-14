@@ -10,7 +10,7 @@ import React, { useState } from'react';
 
 function App() {
 
-  const [lang, setLang] = useState('fr'); // 默认语言为法语
+  const [lang, setLang] = useState('cn'); 
 
   return (
     <div className={style.App}>

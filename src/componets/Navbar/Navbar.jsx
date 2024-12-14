@@ -13,10 +13,10 @@ export const Navbar = ({ lang, setLang }) => {
             {/* 独立的语言切换功能 */}
             <div className={styles.languageSwitcher}>
                 <button
-                    className={`${styles.langBtn} ${lang === 'fr' ? styles.active : ''}`}
-                    onClick={() => setLang('fr')}
+                    className={`${styles.langBtn} ${lang === 'cn' ? styles.active : ''}`}
+                    onClick={() => setLang('cn')}
                 >
-                    FR
+                    中文
                 </button>
                 <button
                     className={`${styles.langBtn} ${lang === 'en' ? styles.active : ''}`}

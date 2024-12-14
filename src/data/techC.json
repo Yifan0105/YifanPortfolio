@@ -1,61 +1,61 @@
 [
   {
     "title": {
-      "fr": "Développement Frontend",
+      "cn": "前端开发",
       "en": "Frontend Development"
     },
     "skills": {
-      "fr": "Angular, React, HTML, CSS, JavaScript, TypeScript, XML, AJAX, JSON, Figma (pour la conception d'UI/UX)",
+      "cn": "Angular, React, HTML, CSS, JavaScript, TypeScript, XML, AJAX, JSON, Figma（用于UI/UX设计）",
       "en": "Angular, React, HTML, CSS, JavaScript, TypeScript, XML, AJAX, JSON, Figma (for UI/UX design)"
     }
   },
   {
     "title": {
-      "fr": "Développement Backend",
+      "cn": "后端开发",
       "en": "Backend Development"
     },
     "skills": {
-      "fr": "Java, Python, Spring Boot (Java), Hibernate (Java), FastAPI (Python), Flask (Python), APIs REST, Apache Tomcat, Postman",
+      "cn": "Java, Python, Spring Boot（Java）, Hibernate（Java）, FastAPI（Python）, Flask（Python）, REST API, Apache Tomcat, Postman",
       "en": "Java, Python, Spring Boot (Java), Hibernate (Java), FastAPI (Python), Flask (Python), REST APIs, Apache Tomcat, Postman"
     }
   },
   {
     "title": {
-      "fr": "Base de Données",
+      "cn": "数据库",
       "en": "Databases"
     },
     "skills": {
-      "fr": "SQL, MySQL, Oracle, SQL Server, SQLite, Access, WampServer",
+      "cn": "SQL, MySQL, Oracle, SQL Server, SQLite, Access, WampServer",
       "en": "SQL, MySQL, Oracle, SQL Server, SQLite, Access, WampServer"
     }
   },
   {
     "title": {
-      "fr": "Business Intelligence",
+      "cn": "商业智能",
       "en": "Business Intelligence"
     },
     "skills": {
-      "fr": "PowerBI, Olap, Talend, DB designer",
+      "cn": "PowerBI, Olap, Talend, 数据库设计器",
       "en": "PowerBI, Olap, Talend, DB designer"
     }
   },
   {
     "title": {
-      "fr": "Gestion de Version",
+      "cn": "版本控制",
       "en": "Version Control"
     },
     "skills": {
-      "fr": "Github, GitLab, Git",
+      "cn": "Github, GitLab, Git",
       "en": "Github, GitLab, Git"
     }
   },
   {
     "title": {
-      "fr": "Maîtrise du développement agile Scrum",
+      "cn": "敏捷Scrum开发精通",
       "en": "Agile Scrum Development Mastery"
     },
     "skills": {
-      "fr": "Scrum Team, Kanban, Trello",
+      "cn": "Scrum团队, 看板, Trello",
       "en": "Scrum Team, Kanban, Trello"
     }
   }

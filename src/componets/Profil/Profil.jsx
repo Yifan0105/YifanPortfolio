@@ -5,7 +5,7 @@ import { translate } from '../../i18n/i18n';
 export const Profil = ({ lang }) => {
   const description = translate(lang, 'profil.description');
   // 根据语言选择对应的简历文件
-  const cvFile = lang === 'fr' ? 'YifanFrCV2024.pdf' : 'YifanEnCV2024.pdf';
+  const cvFile = lang === 'cn' ? '师倚繁 中文简历.pdf' : 'YifanSHI CV EN.pdf';
 
   return (
     <section className={styles.container}>

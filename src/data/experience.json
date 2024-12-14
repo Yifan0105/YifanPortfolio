@@ -1,60 +1,60 @@
 [
   {
     "role": {
-      "fr": "Développeuse Fullstack",
+      "cn": "全栈开发者",
       "en": "Full-stack Developer"
     },
     "organisation": {
-      "fr": "Alteca",
+      "cn": "Alteca",
       "en": "Alteca"
     },
     "location": {
-      "fr": "Toulouse, France",
+      "cn": "法国图卢兹",
       "en": "Toulouse, France"
     },
     "startDate": "04/2024",
     "endDate": "09/2024",
     "experiences": {
-      "fr": [
-        "Développement de l'application web interne AltecaEvent de zéro à un, au sein d'une équipe de 3 stagiaires, sous la supervision d'un chef de projet technique, dans un environnement de travail francophone. L'application permet de créer et gérer des événements, répondre aux questionnaires associés, consulter les détails des événements et gérer les rôles des utilisateurs.",
-        "Répartition des tâches : 70 % de mon temps consacré au développement frontend avec Angular, et 30 % au backend avec FastAPI – Python.",
-        "Gestion de projet agile avec Trello, suivi des tâches, tests des APIs avec Postman, gestion du code avec Git, et prototypage des interfaces avec Figma pour optimiser l’expérience utilisateur. Utilisation de Visual Studio pour le développement du code.",
-        "Résultat : nous avons achevé 95 % du développement de l’application, et la partie restante nécessite une intégration avec le système interne existant de l’entreprise.",
-        "Références - Tuteur de stage: SAVARY Christophe < csavary@alteca.fr >"
+      "cn": [
+        "在一个由3名实习生组成的团队中，在技术项目经理的监督下，从零开始开发内部Web应用程序AltecaEvent，工作环境为法语环境。该应用程序可以创建和管理活动，回答相关问题卷，查看活动详情和管理用户角色。",
+        "任务分配：70%的时间用于使用Angular进行前端开发，30%用于使用FastAPI – Python进行后端开发。",
+        "使用Trello进行敏捷项目管理，跟踪任务，使用Postman测试API，使用Git管理代码，并使用Figma原型设计界面以优化用户体验。使用Visual Studio进行代码开发。",
+        "结果：我们完成了应用程序开发的95%，剩余部分需要与公司现有的内部系统进行集成。",
+        "参考人 - 实习导师：SAVARY Christophe < csavary@alteca.fr >"
       ],
       "en": [
         "Developed the internal web application AltecaEvent from scratch, as part of a team of 3 interns, under the supervision of a technical project manager, in a French-speaking work environment. The application allows for creating and managing events, answering associated questionnaires, viewing event details, and managing user roles.",
         "Task distribution: 70% of my time was spent on frontend development with Angular, and 30% on the backend with FastAPI – Python.",
         "Agile project management with Trello, task tracking, API testing with Postman, code management with Git, and interface prototyping with Figma to optimize the user experience. Used Visual Studio for code development.",
-        "Result: We completed 95% of the application development, with the remaining part requiring integration with the company’s internal system.",
+        "Result: We completed 95% of the application development, with the remaining part requiring integration with the company's internal system.",
         "References - Internship supervisor: SAVARY Christophe < csavary@alteca.fr >"
       ]
     },
     "imageSrc": "./assets/experience/Alteca.jpg",
     "keyword": {
-      "fr": "Application web, Angular, FastAPI – Python, Agile, APIs, Git, Trello, Postman, Visual Studio",
+      "cn": "Web应用程序，Angular，FastAPI – Python，敏捷开发，API，Git，Trello，Postman，Visual Studio",
       "en": "Web application, Angular, FastAPI – Python, Agile, APIs, Git, Trello, Postman, Visual Studio"
     }
   },
   {
     "role": {
-      "fr": "Business Intelligence",
+      "cn": "商业智能",
       "en": "Business Intelligence"
     },
     "organisation": {
-      "fr": "Andros Chine",
+      "cn": "安卓中国",
       "en": "Andros China"
     },
     "location": {
-      "fr": "Pékin, Chine",
+      "cn": "中国北京",
       "en": "Beijing, China"
     },
     "startDate": "05/2023",
     "endDate": "08/2023",
     "experiences": {
-      "fr": [
-        "Analyse des données de vente avec Power BI : Utilisation de Power BI pour réaliser une analyse détaillée et approfondie des données de vente. Conception de tableaux de bord interactifs offrant aux cadres dirigeants une visualisation claire et des insights stratégiques pour une prise de décision éclairée.",
-        "Veille concurrentielle et étude de marché : Analyse approfondie des tendances du marché et des stratégies des produits similaires proposés par les concurrents. Contribution essentielle à l’élaboration des orientations stratégiques et à la planification de nouveaux produits, renforçant ainsi la compétitivité et l’innovation de l’entreprise."
+      "cn": [
+        "使用Power BI进行销售数据分析：利用Power BI对销售数据进行详细深入的分析。设计交互式仪表板，为高层管理人员提供清晰的可视化和战略洞察，以支持明智的决策。",
+        "竞争性情报和市场研究：深入分析市场趋势和竞争对手类似产品的策略。为制定战略方向和规划新产品做出重要贡献，从而增强公司的竞争力和创新能力。"
       ],
       "en": [
         "Sales data analysis with Power BI: Using Power BI to conduct a detailed and in-depth analysis of sales data. Designing interactive dashboards that provide senior management with clear visualizations and strategic insights for informed decision-making.",
@@ -63,29 +63,29 @@
     },
     "imageSrc": "./assets/experience/andros.png",
     "keyword": {
-      "fr": "PowerBI, Analyse de données, Aide à la décision",
+      "cn": "PowerBI，数据分析，决策支持",
       "en": "PowerBI, Data analysis, Decision support"
     }
   },
   {
     "role": {
-      "fr": "Human Resources (HRBP)",
+      "cn": "人力资源（HRBP）",
       "en": "Human Resources (HRBP)"
     },
     "organisation": {
-      "fr": "ByteDance",
+      "cn": "字节跳动",
       "en": "ByteDance"
     },
     "location": {
-      "fr": "Pékin, Chine",
+      "cn": "中国北京",
       "en": "Beijing, China"
     },
     "startDate": "09/2020",
     "endDate": "11/2020",
     "experiences": {
-      "fr": [
-        "Analyser les données de recrutement pour aider les unités commerciales à trouver des candidats appropriés.",
-        "Gestion efficace du processus de recrutement."
+      "cn": [
+        "分析招聘数据，帮助业务部门找到合适的候选人。",
+        "有效管理招聘流程。"
       ],
       "en": [
         "Analyzing recruitment data to assist business units in finding suitable candidates.",
@@ -94,29 +94,29 @@
     },
     "imageSrc": "./assets/experience/bytedance.png",
     "keyword": {
-      "fr": "Communication efficace, Gestion du recrutement",
+      "cn": "有效沟通，招聘管理",
       "en": "Effective communication, Recruitment management"
     }
   },
   {
     "role": {
-      "fr": "Talent Team",
+      "cn": "人才团队",
       "en": "Talent Team"
     },
     "organisation": {
-      "fr": "Ernst & Young",
+      "cn": "安永",
       "en": "Ernst & Young"
     },
     "location": {
-      "fr": "Pékin, Chine",
+      "cn": "中国北京",
       "en": "Beijing, China"
     },
     "startDate": "06/2020",
     "endDate": "09/2020",
     "experiences": {
-      "fr": [
-        "Utiliser Excel pour aider l'équipe RH à traiter les données de recrutement et organiser des entretiens.",
-        "Soutien administratif aux équipes RH dans la gestion du recrutement."
+      "cn": [
+        "使用Excel辅助人力资源团队处理招聘数据并组织面试。",
+        "为人力资源团队在招聘管理中提供行政支持。"
       ],
       "en": [
         "Using Excel to assist the HR team in processing recruitment data and organizing interviews.",
@@ -125,29 +125,29 @@
     },
     "imageSrc": "./assets/experience/ey.webp",
     "keyword": {
-      "fr": "Excel, Traitement des données de recrutement",
+      "cn": "Excel，招聘数据处理",
       "en": "Excel, Recruitment data processing"
     }
   },
   {
     "role": {
-      "fr": "Human Resources",
+      "cn": "人力资源",
       "en": "Human Resources"
     },
     "organisation": {
-      "fr": "Baidu",
+      "cn": "百度",
       "en": "Baidu"
     },
     "location": {
-      "fr": "Pékin, Chine",
+      "cn": "中国北京",
       "en": "Beijing, China"
     },
     "startDate": "02/2020",
     "endDate": "05/2020",
     "experiences": {
-      "fr": [
-        "Trouver les candidats appropriés en fonction des besoins en personnel de l'équipe V2X (Vehicle-to-everything).",
-        "Organisation et gestion du temps pour optimiser le processus de recrutement."
+      "cn": [
+        "根据V2X（车对一切）团队的人员需求，寻找合适的候选人。",
+        "组织和管理时间，以优化招聘流程。"
       ],
       "en": [
         "Finding suitable candidates based on the staffing needs of the V2X (Vehicle-to-everything) team.",
@@ -156,7 +156,7 @@
     },
     "imageSrc": "./assets/experience/baidu.webp",
     "keyword": {
-      "fr": "Organisation, Gestion du temps, Attention aux détails",
+      "cn": "组织，时间管理，注重细节",
       "en": "Organization, Time management, Attention to detail"
     }
   }
